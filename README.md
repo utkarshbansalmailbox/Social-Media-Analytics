@@ -1,5 +1,4 @@
-### Social Media Analytics - Coursera Guided Project
-
+### Social Media Analytics
 ##### 
 
 Created a social media EDA project using Python and libraries such as Pandas, NumPy, and Seaborn. The project involved generating random tweet data, exploring and cleaning it, and then visualizing and analyzing it. 
